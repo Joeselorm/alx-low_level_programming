@@ -1,4 +1,4 @@
-#include <ctype.h>
+#include "alx.h";
 
 /**
  * _isupper - function that checks for uppercase characters
